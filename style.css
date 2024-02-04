@@ -1,0 +1,23 @@
+.whole {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(86, 28, 36);
+    margin-top: 35px;
+    
+}
+
+.image {
+    width: 500px;
+    height: 500px;
+    border: 20px solid rgb(108, 52, 40);
+    
+}
+
+body {
+    background-color: rgb(245, 204, 160);
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
